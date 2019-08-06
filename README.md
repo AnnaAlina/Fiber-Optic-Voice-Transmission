@@ -1,0 +1,2 @@
+# Fiber-Optic-Voice-Transmission
+The objective is to send a sinusoidal analog signal using a microphone through a fiber optic cable via LED. This will then be received by a photodiode, amplified, then sent to a speaker. The key concept is to replicate a waveform using the intensity of the light in the received circuit. Photodiodes vary in conductivity based off of the intensity of light that is making contact with the component. By modulating the light intensity, a waveform similar to what is being passed through the LED can be produced by the photodiode. 
